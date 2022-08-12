@@ -1,0 +1,5 @@
+/* сброс стилей */
+@import url(../vendor/normalize.css);
+
+/* общие стили */
+@import url(../blocks/page/page.css);
