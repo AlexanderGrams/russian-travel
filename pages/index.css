@@ -1,5 +1,18 @@
 /* сброс стилей */
 @import url(../vendor/normalize.css);
 
-/* общие стили */
+/* подключение шрифтов */
+@import url(../vendor/fonts/fonts.css);
+
+/* стили body */
+@import url(../blocks/body/body.css);
+
+/* общие стили страницы */
 @import url(../blocks/page/page.css);
+
+/* cтили header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__lang-links/header__lang-links.css);
+@import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
