@@ -1,0 +1,11 @@
+.intro__text {
+  margin: 0 0 33px 0;
+  padding: 0;
+  width: 100%;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 163%;
+  color: #FFFFFF;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
