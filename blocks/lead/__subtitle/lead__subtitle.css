@@ -8,6 +8,8 @@
   line-height: 1.2;
   text-align: center;
   color: #FFFFFF;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
   -webkit-transform: translate(1px, 2px);
       -ms-transform: translate(1px, 2px);
           transform: translate(1px, 2px);

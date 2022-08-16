@@ -1,0 +1,9 @@
+.footer__link-wrap:not(:first-child) {
+  margin: 0 0 0 18px;
+}
+
+@media screen and (max-width: 767px) {
+  .footer__link-wrap:not(:first-child) {
+    margin: 32px 0 0 0;
+  }
+}
