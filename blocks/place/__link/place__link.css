@@ -8,7 +8,7 @@
   text-decoration: none;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  border-bottom: 1px #FFFFFF solid
+  border-bottom: 1px #FFFFFF solid;
 }
 
 .place__link:hover {
