@@ -1,5 +1,5 @@
 .place__paragraph {
-  margin: 0;
+  margin: 26px 0 0 0;
   padding: 0;
   box-sizing: border-box;
   width: 100%;
@@ -9,8 +9,8 @@
   color: #FFFFFF;
 }
 
-.place__paragraph:not(:first-child) {
-  margin-top: 26px;
+.place__paragraph:first-child {
+  margin-top: 0;
 }
 
 @media screen and (max-width: 1023px) {

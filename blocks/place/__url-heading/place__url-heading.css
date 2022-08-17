@@ -8,6 +8,7 @@
   line-height: 1;
   letter-spacing: 2px;
   color: #AAAAAA;
+  text-transform: uppercase;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 }

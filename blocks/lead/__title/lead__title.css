@@ -1,7 +1,7 @@
 .lead__title {
   margin: 0 auto 32px auto;
   padding: 0;
-  max-width: 720px;
+  box-sizing: border-box;
   width: 100%;
   font-weight: 900;
   font-size: 96px;
@@ -10,16 +10,12 @@
   color: #FFFFFF;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  -webkit-transform: translate(1px, 1px);
-      -ms-transform: translate(1px, 1px);
-          transform: translate(1px, 1px);
 }
 
-@media screen and (max-width: 720px){
+@media screen and (max-width: 767px){
   .lead__title {
     margin: 0 auto 25px auto;
     max-width: 425px;
-    height: 120px;
     font-size: 55px;
     line-height: 60px;
   }
@@ -29,7 +25,6 @@
   .lead__title {
     margin: 0 auto 16px auto;
     max-width: 288px;
-    height: 88px;
     font-size: 40px;
     line-height: 44px;
   }

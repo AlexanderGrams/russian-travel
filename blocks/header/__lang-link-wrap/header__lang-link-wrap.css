@@ -1,0 +1,7 @@
+.header__lang-link-wrap {
+  margin-left: 14px;
+}
+
+.header__lang-link-wrap:first-child {
+  margin-left: 0;
+}

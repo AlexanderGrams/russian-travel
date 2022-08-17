@@ -4,12 +4,12 @@
 
 @media screen and (max-width: 1279px){
   .lead {
-    margin: 28px 48px;
+    margin: 48px;
   }
 }
 
 @media screen and (max-width: 1023px){
   .lead {
-    margin: 28px 0;
+    margin: 48px 0;
   }
 }

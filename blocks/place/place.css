@@ -20,6 +20,10 @@
   .place {
     grid-column-gap: 28px;
   }
+
+  .place:not(:first-child) {
+    margin-top: 73px;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -27,7 +31,11 @@
     grid-template-columns: 100%;
     grid-template-rows: none;
     grid-auto-rows: auto;
-    grid-column-gap: none;
+    grid-column-gap: 0;
     grid-row-gap: 32px;
+  }
+
+  .place:not(:first-child) {
+    margin-top: 50px;
   }
 }

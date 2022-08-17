@@ -4,6 +4,12 @@
   background-size: cover;
   width: 176px;
   height: 52px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.header__logo:hover {
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {
