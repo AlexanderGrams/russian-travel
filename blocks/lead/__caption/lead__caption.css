@@ -11,9 +11,6 @@
   color: #FFFFFF;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  -webkit-transform: translate(0, -2px);
-      -ms-transform: translate(0, -2px);
-          transform: translate(0, -2px);
 }
 
 @media screen and (max-width: 1023px){

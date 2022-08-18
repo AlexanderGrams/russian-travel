@@ -8,9 +8,6 @@
   line-height: 1.17;
   cursor: pointer;
   text-decoration: none;
-  -webkit-transform: translate(2px, 7px);
-      -ms-transform: translate(2px, 7px);
-          transform: translate(2px, 7px);
 }
 
 .header__lang-link:hover {

@@ -5,7 +5,4 @@
   height: auto;
   -o-object-fit: cover;
      object-fit: cover;
-  -webkit-transform: translateY(1px);
-      -ms-transform: translateY(1px);
-          transform: translateY(1px);
 }
